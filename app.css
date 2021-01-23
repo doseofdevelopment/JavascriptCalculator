@@ -1,0 +1,18 @@
+.master {
+    max-width: 500px;
+}
+
+button {
+    height: 5rem;
+    margin: 2px;
+}
+
+#display {
+    margin:0;
+    font-size: 3rem;
+    text-align: right;
+}
+
+#secDisplay {
+    text-align: right;
+}
